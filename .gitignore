@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store
+
+.vscode
+
+#ignoring all CSV files excpet the ones in 'data' folder
+!/data/
+*.csv
+!/data/*.csv
