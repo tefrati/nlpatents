@@ -1,0 +1,29 @@
+{
+  "name": "nlpatents",
+  "version": "1.0.0",
+  "description": "Clustering and Classifying patents using various NLP tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tefrati/nlpatents.git"
+  },
+  "keywords": [
+    "patents",
+    "NLP",
+    "doc2vec",
+    "gensim"
+  ],
+  "author": {
+    "name": "Tzahi Efrati",
+    "email": "tzahi.efrati@gmail.com",
+    "url": "https://linkedin.com/in/efrati"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tefrati/nlpatents/issues"
+  },
+  "homepage": "https://github.com/tefrati/nlpatents#readme"
+}
